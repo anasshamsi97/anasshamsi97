@@ -11,3 +11,5 @@ TECHNOLOGY STACK: 🔨
 - Clean Architecture, MVVM, Coroutines, Jetpack, Dagger/Koin, RxJava2, Retrofit, Firebase, Room, Navigation Component
 
 Got a crazy app idea and can't wait to bring that to market? Let's connect here or shoot an email at anasshamsi97@gmail.com
+
+![](https://komarev.com/ghpvc/?username=anasshamsi97)
